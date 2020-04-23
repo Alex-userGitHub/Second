@@ -17,3 +17,4 @@ appData.expenses.ans1 = ans2;
 appData.expenses.ans3 = ans4;
 
 alert(appData.budget / 30);
+alert("привет");
